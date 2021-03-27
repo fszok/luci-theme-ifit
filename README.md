@@ -1,5 +1,6 @@
 # luci-theme-ifit
 
+非原创转自:https://github.com/kenzok8/luci-theme-ifit
 
 原作者 https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom
 
